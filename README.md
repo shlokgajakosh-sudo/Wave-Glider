@@ -1,1 +1,2 @@
 # Wave-Glider
+This is my FLL team's innovation project. This project features a motion sensor and wave gliding technology. The problem was that wave gliders made by scientists always got untracked by boats. Our solution was to make a wave glider with proper technology. When, and if, a boat was detected coming towards the wave glider, it would shine a bright light. This signals the captain to change directions and maneuver around it. The reason this works is that the sensor starts detecting from 18 meters away. 
